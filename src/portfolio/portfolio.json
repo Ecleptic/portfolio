@@ -1,0 +1,22 @@
+{
+  "name": "Cameron Green",
+  "title": "Software Engineer",
+  "about": {
+    "aboutme": "Full Stack Software Engineer currently for JP Morgan working in .Net Core MVC and React. Current technologies in side projects include Javascript, ReactJS, GatsbyJS, GraphQL, React Native and VueJS.",
+    "resume": ""
+  },
+  "jobs": [
+    {
+      "company": "Zeal IT Consultants",
+      "title": "Software Engineer",
+      "description": " Working on an agile team in .Net Core MVC, DynamoDB, and Android. "
+    }
+  ],
+  "projects": [{ "name": "Code Chat" }],
+  "skills": [],
+  "social": {
+    "email": "Recruit@CameronGreens.com",
+    "linkedin": "",
+    "github": "github.com/ecleptic"
+  }
+}
